@@ -1,0 +1,35 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "custom-translate": "^2.2.8",
+    "discord-tictactoe": "^2.1.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "giphy-js-sdk-core": "^1.0.6",
+    "node-valorant-api": "^0.5.0",
+    "reddit-api": "0.0.24",
+    "sequelize": "^6.6.2",
+    "snoostorm": "^1.5.2",
+    "snoowrap": "^1.23.0",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshattnj/BonkBot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/akshattnj/BonkBot/issues"
+  },
+  "homepage": "https://github.com/akshattnj/BonkBot#readme",
+  "description": ""
+}
